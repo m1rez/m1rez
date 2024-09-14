@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m1rez (@m1rez0)
-- 👀 I’m interested in (Sec)DevOps and Information Security
+- 👀 I’m interested in AWS Cloud Security; Offensive and Defensive
 - 📫 How to reach me via Twitter @m1rez0
 
 <!---
